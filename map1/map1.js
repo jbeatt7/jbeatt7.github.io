@@ -1,4 +1,4 @@
-var NOLA = L.map(NOLA).setView([62.18, -98.14], 8)
+var 1 = L.map('NOLA').setView([62.18, -98.14], 8)
 L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png').addTo(NOLA)
 var point = L.marker([60, -90]).addTo(NOLA)
 var circle = L.polygon([
