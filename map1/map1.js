@@ -5,6 +5,6 @@ var Circle = L.polygon([
   [61, -88],
   [65, -88],
   [52, -82]
-]).addTo(map1
+]).addTo(map1)
 Circle.bindPopup('Hi')
 point1.bindPopup('Boo')
